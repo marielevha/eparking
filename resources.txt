@@ -1,0 +1,8 @@
+https://www.bootdey.com/snippets/tagged/file-manager
+https://hackernoon.com/top-10-javascript-file-managers-8o2p34vw
+https://js.devexpress.com/Demos/WidgetsGallery/Demo/FileManager/Overview/Vue/Light/
+https://webix.com/filemanager/?ref=hackernoon.com
+https://www.bootdey.com/snippets/view/file-managaer-page
+
+https://www.torf.co/simple-menu-file-manager.html
+https://www.torf.co/dist/css/app.css
